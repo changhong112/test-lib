@@ -1,0 +1,13 @@
+{
+  "name": "test-lib",
+  "version": "1.0.0",
+  "description": "",
+  "module": "./src/index.js",
+  "main": "./dist/main.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
